@@ -1,0 +1,5 @@
+echo "test1.bin"
+python3 /home/2017310301/swe3005/mips_sim.py /home/swe3005/2020f/proj1/test1.bin
+
+echo "test2.bin"
+python3 /home/2017310301/swe3005/mips_sim.py /home/swe3005/2020f/proj1/test2.bin
